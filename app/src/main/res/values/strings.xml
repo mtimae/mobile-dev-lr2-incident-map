@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Карта происшествий</string>
+
+    <string name="status_loading">Статус: карта загружается</string>
+    <string name="my_location">Моё местоположение</string>
+    <string name="add_point">Добавить точку</string>
+
+    <string name="next">Далее</string>
+    <string name="previous">Назад</string>
+    <string name="hello_first_fragment">Первый фрагмент</string>
+    <string name="hello_second_fragment">Второй фрагмент</string>
+    <string name="first_fragment_label">Первый фрагмент</string>
+    <string name="second_fragment_label">Второй фрагмент</string>
+    <string name="action_settings">Настройки</string>
+    <string name="lorem_ipsum">Тестовый текст</string>
+</resources>
